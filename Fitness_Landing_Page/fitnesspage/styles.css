@@ -1,0 +1,41 @@
+/* Body */
+body {
+  background-color: #ffe6e6; /* Light pink background */
+}
+
+/* Navbar */
+.navbar {
+  background-color: #ffe6e6; /* Light pink background */
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+  color: #343a40; /* Dark grey text */
+}
+
+/* Hero Section */
+.hero {
+  background-color: #ffe6e6; /* Light pink background */
+  color: #343a40; /* Dark grey text */
+}
+
+/* About Section */
+.about {
+  background-color: #ffe6e6; /* Light pink background */
+}
+
+/* Services Section */
+.services {
+  background-color: #ffe6e6; /* Light pink background */
+}
+
+/* Contact Section */
+.contact {
+  background-color: #ffe6e6; /* Light pink background */
+}
+
+/* Footer */
+.footer {
+  background-color: #ffe6e6; /* Light pink background */
+  color: #343a40; /* Dark grey text */
+}
